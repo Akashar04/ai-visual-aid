@@ -1,4 +1,4 @@
-# React + Vite
+# Ai-Visual-Aid
 # 🎯 AI-Based Real-Time Object Identifier & Reader for Visually Impaired
 
 This project is a web application designed to help **visually impaired individuals** identify objects, read printed text, and understand their location — all through **voice feedback**.
